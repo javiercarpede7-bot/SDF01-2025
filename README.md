@@ -1,8 +1,8 @@
-# [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+# 👋 Hi, I'm Javier Carpede
+
+🌱 Beginner Software Developer | 🚀 Excited to Learn & Build / Learning how to code 
 
 ---
 
@@ -11,7 +11,7 @@
 - 💡 I'm currently learning **GitHub and version control** before diving into coding
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- 🔥 Looking forward to building a real-world application.
 
 ---
 
@@ -33,10 +33,10 @@
 ## 🏆 Soft Skills
 
 - 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
+- ❤️ Determination
 - 🎯 Problem-Solving
 - 🚀 Adaptability
-
+- 😁 Good attitude
 ---
 
 ## 📌 Projects
@@ -46,9 +46,9 @@ Here are some of my milestone projects (to be updated as I progress!):
 ### **1️⃣ First GitHub Project**
 
 🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
+🔹 **Status:** ✅ Underway
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+### **2️⃣ Personal Portfolio** (Coming Soon!)
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
@@ -60,24 +60,24 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 - 🚀 Get comfortable using Git and GitHub
 - 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+- 💡 Build a real-world project website
+- ⭐ Good idea of starting a project
 
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/javiercarpede7-bot)    
+📧 Email: [javiercarpede7@gmail.com]
 
 ---
 
-## 🚀 Fun Fact
+## 🚀 Fun Facts
 
 💡 I love learning new things and can't wait to build my first website!
-
+❤️‍🔥 I finsh what I start and keep going for it
 ---
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?javiercarpede7-bot=javiercarpede7-bot=true&theme=radical)
