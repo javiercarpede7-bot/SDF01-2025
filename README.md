@@ -67,8 +67,8 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/javiercarpede7-bot)    
-📧 Email: [javiercarpede7@gmail.com]
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) https://github.com/javiercarpede7-bot    
+📧 Email: javiercarpede7@gmail.com
 
 ---
 
